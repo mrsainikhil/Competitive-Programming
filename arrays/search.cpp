@@ -17,7 +17,6 @@ int main() {
 			flag = 1;
 			break;
 		}
-	}
 	if(flag)
 		cout<<"will not take number";
 	else
