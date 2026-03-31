@@ -1,2 +1,5 @@
-lcm
-ab
+3 3
+xxx
+xxx
+xxx
+1 1
